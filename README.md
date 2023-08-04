@@ -19,3 +19,5 @@ This might be huge for those who wants to generate the images and want to explor
 - Apply changes: Once you've chosen your preferred accelerator, click on the "SAVE" button to apply the changes.
 
 - Verify the change: After changing the runtime type, the notebook will automatically restart.
+
+Find the Google Colab link [here](https://colab.research.google.com/drive/1mbC7sU5oI9MI-t5_DXWhd7lvPHecIYdW#scrollTo=14bFfA254uIU)
